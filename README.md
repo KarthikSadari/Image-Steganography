@@ -1,1 +1,1 @@
-# Image-Steganography
+# Hiding Message in an Image
