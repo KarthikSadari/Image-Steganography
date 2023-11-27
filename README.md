@@ -1,4 +1,13 @@
 <h1> Hiding Message in an Image </h1>
+
+<h3>Index: </h3>
+<ol>
+<li>Code</li>
+<li>Presentation(PPT)</li>
+<li>Image Used</li>
+<li>Output</li>
+<li>Encrypted Image</li>
+</ol>
 <h3>Project Description: </h3>
 
 <p>In today's digital landscape, where data security is of paramount concern, our project on "Hiding a Message in an Image (Image Steganography)" emerges as an exploration of a fascinating and innovative technique. Steganography, the art of concealing information within seemingly ordinary images, has garnered increasing attention due to its potential in secure communication and data protection. This project delves into the world of image steganography, aiming to unravel its intricacies and practical applications.</p>
