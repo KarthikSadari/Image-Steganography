@@ -5,7 +5,7 @@
 
 <p>Our journey begins with a clear problem statement that highlights the need for secure data concealment in the face of growing digital threats. We then introduce the project's focus and objectives, which revolve around understanding various steganographic techniques, developing a practical steganography process, evaluating security implications, and suggesting areas for future research.</p>
 
-<p>The heart of the project lies in the methods and tools employed. We dissect steganography techniques like LSB insertion and the F5 algorithm, and we utilize programming languages and libraries like Python and OpenCV to implement and test these methods. A step-by-step process of hiding a message within an image is outlined, providing a tangible and practical understanding of image steganography.</p>
+<p>The heart of the project lies in the methods and tools employed. We dissect steganography techniques like LSB insertion, and we utilize programming languages and libraries like Python and OpenCV to implement and test these methods. A step-by-step process of hiding a message within an image is outlined, providing a tangible and practical understanding of image steganography.</p>
 
 <p>While embracing the opportunities that steganography presents, we also address the challenges and ethical considerations inherent in this technology. Maintaining the delicate balance between message concealment and image quality is a focal point, and we explore the dual nature of steganography as both a tool for secure communication and a potential instrument for misuse.</p>
 
