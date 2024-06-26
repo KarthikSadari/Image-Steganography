@@ -4,6 +4,7 @@
 <ol>
 <li><a href="Hiding Message in an Image.py">Code</a></li>
 <li><a href="Hiding message in an image.pptx">Presentation(PPT)</a></li>
+<li><a href="Hiding Message in an Image.pdf">Report</a></li>
 <li><a href="Dragon Ball Z.jpg">Image Used</a></li>
 <li><a href="Output.png">Output</a></li>
 <li><a href="Encrypted_img.jpg">Encrypted Image</a></li>
